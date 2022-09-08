@@ -7,7 +7,7 @@ C#,C++,Haxe and Java coder.
 I like to fuck around with code lmao
 
 *   ✉️  You can contact me at Ty\_1991#9787
-*   🧠  I'm learning C,C#, and C++
+*   🧠  I'm learning C,Haxe, and C++
 *   🤝  I'm open to collaborating on Nothing atm
 <a href="https://www.twitter.com/Ty_1991" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Ty_1991?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
