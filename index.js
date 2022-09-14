@@ -23,6 +23,11 @@ var randomstuff = [
     'idk lol',
     'beep beep!',
     'alright thats everything for this'
+    'no it's not :skull:'
+    'I fucked your mom lmao'
+    'Do I exist?'
+    'Uhh megalovania is a banger'
+    'I cummed in a sock before... it was bad.'
 ];
 
 document.getElementById('random').innerText = randomstuff[Math.floor(Math.random() * randomstuff.length)];
