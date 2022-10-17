@@ -1,7 +1,7 @@
 Hi 👋 My name is Ty\_1991/Tyler
 ===============================
 
-C#,C++,Haxe and Java coder.
+C#,C++,Haxe,Java and Python coder.
 ---------------------------
 
 I like to fuck around with code lmao
