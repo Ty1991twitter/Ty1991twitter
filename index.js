@@ -16,14 +16,14 @@ var randomstuff = [
     'what else do i put here',
     'my past history?',
     'i started with roblox exploits lol',
-    'it was 2017/18 okay? :(',
+    'it was 2017/2018 okay? :(',
     'uhhhhhhhhhhhhhhhhhhhhhhhhhhhh',
     'doing this at 4 am',
     'en vez de caen gays, caen minas :sunglasses:',
     'idk lol',
     'beep beep!',
     'alright thats everything for this'
-    'no it's not :skull:'
+    'no'
     'I fucked your mom lmao'
     'Do I exist?'
     'Uhh megalovania is a banger'
