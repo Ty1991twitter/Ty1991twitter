@@ -6,7 +6,7 @@ C#,C++,Haxe,Java and Python coder.
 
 I like to fuck around with code lmao
 
-*   ✉️  You can contact me at Ty\_1991#9787
+*   ✉️  You can contact me at Retro_Ty#5576
 *   🧠  I'm learning C,Haxe, and C++
 
 <a href="https://www.twitter.com/Ty_1991" target="_blank" rel="noreferrer"><img
